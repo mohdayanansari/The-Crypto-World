@@ -44,7 +44,7 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            CryptoApp <br /> All rights reserved || Created by Ayan Ansari
+            CryptoApp <br /> All rights reserved ||| Created by Ayan Ansari
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
